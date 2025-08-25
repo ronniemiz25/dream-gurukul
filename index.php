@@ -419,7 +419,7 @@
                                 <div class="floor_col">
                                     <img src="images/masterplan.webp" class="img-fluid" alt="">
                                     <div class="overlay">
-                                        <a href="#form" class="btn btn-primary hash">View More</a>
+                                        <a href="#form" class="btn btn-primary hash">View Plan</a>
                                     </div>
                                 </div>
 
@@ -435,7 +435,7 @@
                                     <img src="images/Tower-A1.webp" class="img-fluid" alt="">
                                     <div class="ribbon">1st,3rd,5th Floor Plan</div>
                                     <div class="overlay">
-                                        <a href="#form" class="btn btn-primary hash">View More</a>
+                                        <a href="#form" class="btn btn-primary hash">View Plan</a>
                                     </div>
                                 </div>
 
@@ -445,7 +445,7 @@
                                     <img src="images/Tower-A1.webp" class="img-fluid" alt="">
                                     <div class="ribbon">2nd,4th Floor Plan</div>
                                     <div class="overlay">
-                                        <a href="#form" class="btn btn-primary hash">View More</a>
+                                        <a href="#form" class="btn btn-primary hash">View Plan</a>
                                     </div>
                                 </div>
 
@@ -460,7 +460,7 @@
                                     <img src="images/Tower-B.webp" class="img-fluid" alt="">
                                     <div class="ribbon">1st Floor Plan</div>
                                     <div class="overlay">
-                                        <a href="#form" class="btn btn-primary hash">View More</a>
+                                        <a href="#form" class="btn btn-primary hash">View Plan</a>
                                     </div>
                                 </div>
                             </div>
@@ -469,7 +469,7 @@
                                     <img src="images/Tower-B.webp" class="img-fluid" alt="">
                                     <div class="ribbon">2nd,4th,6th Floor Plan</div>
                                     <div class="overlay">
-                                        <a href="#form" class="btn btn-primary hash">View More</a>
+                                        <a href="#form" class="btn btn-primary hash">View Plan</a>
                                     </div>
                                 </div>
                             </div>
@@ -478,15 +478,12 @@
                                     <img src="images/Tower-B.webp" class="img-fluid" alt="">
                                     <div class="ribbon">3rd,5th,7th Floor Plan</div>
                                     <div class="overlay">
-                                        <a href="#form" class="btn btn-primary hash">View More</a>
+                                        <a href="#form" class="btn btn-primary hash">View Plan</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="text-center mt-2 mt-sm-4">
-                    <a href="#form" class="btn btn-primary">Enquire Now</a>
                 </div>
             </div>
         </div>
