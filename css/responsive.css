@@ -37,7 +37,7 @@ footer{background-size: 57%;background-position: top;}
 footer .left_footer h4:after,footer .right_footer h4:after{left: 0;right: 0;margin: 0 auto;}
 footer .left_footer h4, footer .right_footer h4{margin-bottom: 15px;}
 .sectiongap {padding: 20px 0;}
-.location .nav-link{width: 47%;margin: 6px auto;}
+.location .nav-link{width: 48%;margin: 6px auto;}
 .section_title{margin-bottom: 20px;}
 .gallery_col .overlay .text img{width: 45px;}
 .location .tab-content .list-group-item{align-items: center;font-size: 14px;}
@@ -50,6 +50,11 @@ footer .left_footer h4, footer .right_footer h4{margin-bottom: 15px;}
 .overview .row h4{font-size: 18px;}
 .scroll_navbar{display: none!important;}
 .trivia{display: none;}
+}
+
+@media(width: 360px) and (height: 740px){
+.floor_plan .nav-link{margin: 0 3px;}
+
 }
   
 /* Media Query for low resolution  Tablets, Ipads */
