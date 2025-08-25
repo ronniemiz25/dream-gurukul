@@ -208,9 +208,9 @@
                                 ode to the same, here’s introducing kids-centric homes, a groundbreaking concept where
                                 children's dreams are at the heart of our design.
 
-                                But we don't stop at the young ones – Dream Gurukul offers an array of facilities that
+                                <b>But we don't stop at the young ones – Dream Gurukul offers an array of facilities that
                                 cater to adults and senior citizens, ensuring leisure for all. Discover a world where
-                                imagination knows no bounds, where art inspires, and where family nurtures.
+                                imagination knows no bounds, where art inspires, and where family nurtures.</b>
                             </p>
                         </div>
                         <div class="row g-3">

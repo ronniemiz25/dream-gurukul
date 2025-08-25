@@ -99,6 +99,7 @@ li{list-style: none;}
 ::placeholder{font-size: 14px;color: var(--black)!important;}
 button[type="submit"]{margin-top: 20px;}
 .overview .row img{width: 80px;height: 80px;float: left;margin-right: 20px;}
+.overview .row p b{font-weight: 500;}
 .overview .row p span {display: block;}
 .overview span strong{color: var(--ochre);display: block;}
 .overview .row h4{font-weight: 700;color: var(--brown);font-size: 20px;}
