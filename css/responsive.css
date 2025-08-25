@@ -1,0 +1,142 @@
+/* Media Query for Mobile Devices */
+@media (max-width: 480px) {
+h1, h2 {font-size:1.2rem;}
+h3 {font-size: 1rem;}
+h4 {font-size:1.2rem;font-weight: 700;}
+h6 {font-size:1rem;}
+.section_title h2{font-size: 26px;}
+.thanku_bg p{font-size:15px;}
+.thanku_bg img{width:220px;}
+.carousel-indicators [data-bs-target]{display:none;}
+.bordcol{margin-bottom: 10px;border-right:0;}
+.bordcol:nth-child(3){display: none;}
+.bordcol:nth-child(4){display: none;}
+.trivia{padding: 5px 0;}
+.trivia img{margin-right: 0;width: 55px;height: 55px;}
+.fixed-top{position: static!important;}
+.logo-main::before{display: none!important;}
+.logo-main img{width: 150px;}
+.navbar-nav{text-align: center;}
+.navbar-light .navbar-toggler{border-color: transparent!important;}
+.navbar-toggler:focus{box-shadow: none!important;}
+.amen_col{padding: 10px;}
+.amen_col img{margin-bottom: 10px;width: 65px;}
+.amen_col:nth-child(1){background-color: var(--lbrown);}
+.amen_col:nth-child(2){background-color: transparent;}
+.amen_col:nth-child(3){background-color: transparent;}
+.amen_col:nth-child(4){background-color: var(--lbrown);}
+.amen_col:nth-child(5){background-color: var(--lbrown);}
+.amen_col:nth-child(6){background-color: transparent;}
+.amen_col:nth-child(7){background-color: transparent;}
+.amen_col:nth-child(8){background-color: var(--lbrown);}
+.amen_col:nth-child(9){background-color: var(--lbrown);}
+.amen_col:nth-child(10){background-color: transparent;}
+footer{background-size: 57%;background-position: top;}
+.left_footer,.right_footer{text-align: center!important;}
+.left_footer{margin-bottom: 10px;}
+footer .left_footer h4:after,footer .right_footer h4:after{left: 0;right: 0;margin: 0 auto;}
+footer .left_footer h4, footer .right_footer h4{margin-bottom: 15px;}
+.sectiongap {padding: 20px 0;}
+.location .nav-link{width: 47%;margin: 6px auto;}
+.section_title{margin-bottom: 20px;}
+.gallery_col .overlay .text img{width: 45px;}
+.location .tab-content .list-group-item{align-items: center;font-size: 14px;}
+.badge{float: right;}
+.floor_plan .nav-link{font-size: 14px;}
+.floor_col{margin-bottom: 15px;}
+.floor_plan .tab-content ,.location .tab-content{margin-top: 25px;}
+.overview form{margin-bottom: 30px;}
+.overview .row img{height: 65px;width: 65px;}
+.overview .row h4{font-size: 18px;}
+.scroll_navbar{display: none!important;}
+.trivia{display: none;}
+}
+  
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 768px) {
+.fixed-top{position: static!important;}
+.logo-main::before{display: none!important;}
+.navbar-nav{text-align: center;}
+.navbar-light .navbar-toggler{border-color: transparent!important;}
+footer .left_footer span, footer .right_footer span{font-size: 11px;}
+.location .nav-link{width: 47%;margin: 6px auto;}
+.section_title{margin-bottom: 20px;}
+.section_title h2{font-size: 28px;}
+.overview .row img{height: 65px;width: 65px;}
+.overview .row h4{font-size: 18px;}
+.bordcol{margin-bottom: 15px;border-right:0;}
+.scroll_navbar{display: none!important;}
+.amen_col img{margin-bottom: 10px;width: 65px;}
+.location .tab-content{margin-top: 20px;padding: 15px;}
+.sectiongap{padding: 20px 0;}
+.overview form{padding: 20px;margin-bottom: 20px;}
+}
+  
+
+  
+  
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 769px) and (max-width: 1024px){
+p {font-size: .7rem;}
+h1, h2 {font-size:1.2rem!important;margin-bottom: 5px;}
+
+
+
+}
+ 
+
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {  
+.stellarnav > ul > li > a {
+    padding: 16px 15px!important;
+    font-size: 11px!important;
+}
+
+}
+
+
+@media only screen 
+and (min-device-width : 820px) 
+and (max-device-width : 1180px) 
+and (orientation : landscape) {  
+.stellarnav > ul > li > a {padding: 16px 15px!important;font-size: 11px!important;}
+.logo-main img { height: 65px;}
+
+}
+
+
+
+ 
+/* Media Query for Laptops and Desktops */
+@media (min-width: 1025px) and (max-width: 1199px){
+
+
+}
+  
+   
+/* Media Query for Laptops and Desktops */
+@media (min-width: 1025px) and (max-width: 1366px){
+
+
+
+} 
+/* Media Query for Large screens */
+@media (min-width: 1200px) {
+.container, .container-sm, .container-md, .container-lg, .container-xl{
+max-width: 1220px;}
+
+	
+}
+
+@media (min-width: 1079px) and (max-width: 1920px){
+
+}
+
+
+
+
+
+
