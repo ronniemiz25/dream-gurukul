@@ -53,7 +53,7 @@
                         <a class="nav-link hash" href="#amenities">AMENITIES</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link hash" href="#floorplan">FLOOR PLAN</a>
+                        <a class="nav-link hash" href="#floorplan">PROJECT LAYOUT</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link hash" href="#location">LOCATION</a>
@@ -157,12 +157,12 @@
                     <div class="col-lg-8">
                         <div class="section_title text-sm-start text-center">
                             <h2>Overview</h2>
-                            <p>Dream Gurukul brings thoughtfully designed flats in Madhyamgram that balance convenience,
+                            <p>Dream Gurukul brings thoughtfully designed <strong>flats in Madhyamgram</strong> that balance convenience,
                                 comfort, and community living. Just 10 minutes from the Airport, the project offers
                                 modern amenities, landscaped open spaces, and activity zones that encourage learning and
                                 recreation for every age group.
                             </p>
-                            <p><strong>HIRA Approved |</strong> <strong>RERA No:</strong> WBRERA/P/NOR/2023/000790</p>
+                            <p><strong>RERA No:</strong> WBRERA/P/NOR/2023/000790</p>
                         </div>
                         <div class="row g-3">
                             <div class="col-md-12 overbg">
@@ -183,17 +183,18 @@
                                 </div>
                             </div>
                             <div class="col-md-6 overbg">
-                                <img src="images/loan.png" class="img-fluid" alt="">
+                                
+                                <img src="images/lake.png" class="img-fluid" alt="">
                                 <div class="over_col">
-                                    <h4>Loan approved by major banks</h4>
-                                    <p>Designed around the needs, and potential of every child.</p>
+                                    <h4>Natural Waterbody</h4>
+                                    <p>By the serene waters, a Gurukul where tradition and nature unite.</p>
                                 </div>
                             </div>
                             <div class="col-md-12 overbg">
-                                <img src="images/lake.png" class="img-fluid" alt="">
+                                <img src="images/loan.png" class="img-fluid" alt="">
                                 <div class="over_col">
-                                    <h4>Located near Waterbody</h4>
-                                    <p>Designed around the needs, and potential of every child.</p>
+                                    <h4>Loan Approved by Major Banks</h4>
+                                    <p>Empowering your vision—bank loans to bring Dream Gurukul to life.</p>
                                 </div>
                             </div>
                         </div>
@@ -407,7 +408,7 @@
         <div class="floor_plan">
             <div class="container">
                 <div class="section_title">
-                    <h2>Floor Plans</h2>
+                    <h2>Project Layout</h2>
                 </div>
                 <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist">
                     <li class="nav-item" role="presentation">
@@ -726,9 +727,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="text-center mt-4">
-                    <a href="#form" class="btn btn-primary">Enquire Now</a>
-                </div>
+                
             </div>
         </div>
     </div>
