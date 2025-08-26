@@ -4,7 +4,7 @@
 :root{
   --brown:#502b13;
   --lbrown:#ffe5b154;
-  --ochre:#b7892b;
+  --ochre:#ab7c1c;
 	--white:#fff;
 	--black:#111;
 }
@@ -98,12 +98,12 @@ li{list-style: none;}
 .form-control:focus{border-bottom: 1px solid #999;background-color: transparent;}
 ::placeholder{font-size: 14px;color: var(--black)!important;}
 button[type="submit"]{margin-top: 20px;}
-.overview .row img{width: 80px;height: 80px;float: left;margin-right: 20px;}
-.overview .row p b{font-weight: 500;}
-.overview .row p span {display: block;}
+.overview .row img{width: 80px;height: 80px;float: left;margin-right: 10px;}
+.overview .row p strong{color: var(--brown);}
+.overview .row p span {display: inline-block;margin-right: 10px;padding-right: 10px;border-right: 1px solid var(--ochre);}
+.overview .row p span:last-child{border-right: 0;}
 .overview span strong{color: var(--ochre);display: block;}
 .overview .row h4{font-weight: 700;color: var(--brown);font-size: 20px;}
-.overview .row p{margin-bottom: 0;}
 .overbg:hover{background-color: var(--lbrown);transition: 400ms all ease;}
 .overbg:hover img{transform: rotateY(360deg);transition: 600ms all ease;}
 .over_col{display: grid;}
@@ -198,3 +198,4 @@ footer .right_footer{text-align: right;}
 .copyright p{margin-bottom: 0;color: #ffff;font-size: 10px;}
 /*FOOTER*/
 
+iframe{width: 100%;height: 100%;}

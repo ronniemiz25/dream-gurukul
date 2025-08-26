@@ -72,58 +72,15 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="images/new-banner.webp" class="img-fluid d-none d-sm-block" alt="...">
-                    <img src="images/new-banner-mob.webp" loading="eager"  fetchpriority="high" class="img-fluid d-block d-sm-none" alt="...">
+                    <img src="images/new-banner-mob.webp" loading="eager" fetchpriority="high"
+                        class="img-fluid d-block d-sm-none" alt="...">
                 </div>
             </div>
         </div>
     </div>
     <!---BANNER--->
 
-    <!--TRIVIA --->
-    <div class="trivia">
-        <div class="container">
-            <div class="row">
-                <div class="col-6 col-lg-3 bordcol">
-                    <div class="d-sm-flex align-items-center text-sm-start text-center">
-                        <img src="images/apartment.png" class="img-fluid" alt="">
-                        <div class="triv_col">
-                            <h4><span>450+</span> Premium Apartments</h4>
-                        </div>
-                    </div>
 
-                </div>
-                <div class="col-6 col-lg-3 bordcol">
-                    <div class="d-sm-flex align-items-center text-sm-start text-center">
-                        <img src="images/bookings.png" class="img-fluid" alt="">
-                        <div class="triv_col">
-                            <h4><span>100+</span> Booked Apartments</h4>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-6 col-lg-3 bordcol">
-                    <div class="d-sm-flex align-items-center text-sm-start text-center">
-                        <img src="images/open-space.png" class="img-fluid" alt="">
-                        <div class="triv_col">
-                            <h4><span>70%</span> Open Space</h4>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-6 col-lg-3 bordcol">
-                    <div class="d-sm-flex align-items-center text-sm-start text-center">
-                        <img src="images/parking.png" class="img-fluid" alt="">
-                        <div class="triv_col">
-                            <h4><span>500+</span> Car Parking Spaces</h4>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <!--TRIVIA --->
 
     <!---OVERVIEW-->
     <div class="sectiongap" id="overview">
@@ -131,7 +88,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4">
-                        <form action="dream_gurukul.php/form_submit.php"id="form" method="post">
+                        <form action="dream_gurukul.php/form_submit.php" id="form" method="post">
                             <input id="utm_form_name" name="utm_form_name" type="hidden" value="registration">
                             <input id="utm_source" name="utm_source" type="hidden" value="">
                             <input id="utm_medium" name="utm_medium" type="hidden" value="">
@@ -200,24 +157,18 @@
                     <div class="col-lg-8">
                         <div class="section_title text-sm-start text-center">
                             <h2>Overview</h2>
-                            <p>At Dream Gurukul, we believe every home should be a canvas of art where creativity
-                                thrives. Our project is designed to celebrate the harmonization of art and life,
-                                offering a unique living experience.
-
-                                As the dawn of a new era in residential living, we focus on nurturing young minds. As an
-                                ode to the same, here’s introducing kids-centric homes, a groundbreaking concept where
-                                children's dreams are at the heart of our design.
-
-                                <b>But we don't stop at the young ones – Dream Gurukul offers an array of facilities that
-                                cater to adults and senior citizens, ensuring leisure for all. Discover a world where
-                                imagination knows no bounds, where art inspires, and where family nurtures.</b>
+                            <p>Dream Gurukul brings thoughtfully designed flats in Madhyamgram that balance convenience,
+                                comfort, and community living. Just 10 minutes from the Airport, the project offers
+                                modern amenities, landscaped open spaces, and activity zones that encourage learning and
+                                recreation for every age group.
                             </p>
+                            <p><strong>HIRA Approved |</strong> <strong>RERA No:</strong> WBRERA/P/NOR/2023/000790</p>
                         </div>
                         <div class="row g-3">
-                            <div class="col-md-6 overbg">
+                            <div class="col-md-12 overbg">
                                 <img src="images/flat-price.png" class="img-fluid" alt="">
                                 <div class="over_col">
-                                    <h4>Flat Price</h4>
+                                    <h4>Price & Sizes</h4>
                                     <p>
                                         <span><strong>2 BHK (860 - 875 Sq. ft):</strong> 57 Lakhs Onwards</span>
                                         <span><strong>3 BHK (1225 - 1290 Sq. ft):</strong> 80 Lakhs Onwards</span>
@@ -225,19 +176,83 @@
                                 </div>
                             </div>
                             <div class="col-md-6 overbg">
-                                <img src="images/security.png" class="img-fluid" alt="">
+                                <img src="images/child.png" class="img-fluid" alt="">
                                 <div class="over_col">
-                                    <h4>Safe & Secure</h4>
-                                    <p>24/7 round-the-clock security with CCTV and gated access.</p>
+                                    <h4>Child Centric Living</h4>
+                                    <p>Designed around the needs, and potential of every child.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-6 overbg">
+                                <img src="images/loan.png" class="img-fluid" alt="">
+                                <div class="over_col">
+                                    <h4>Loan approved by major banks</h4>
+                                    <p>Designed around the needs, and potential of every child.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-12 overbg">
+                                <img src="images/lake.png" class="img-fluid" alt="">
+                                <div class="over_col">
+                                    <h4>Located near Waterbody</h4>
+                                    <p>Designed around the needs, and potential of every child.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="text-center mt-4 d-block d-md-none">
+                    <a href="#form" class="btn btn-primary hash">Download Brochure</a>
+                </div>
             </div>
         </div>
     </div>
     <!---OVERCIEW-->
+
+
+    <!--TRIVIA --->
+    <div class="trivia">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-3 bordcol">
+                    <div class="d-sm-flex align-items-center text-sm-start text-center">
+                        <img src="images/apartment.png" class="img-fluid" alt="">
+                        <div class="triv_col">
+                            <h4><span>G+7</span> 8 Towers</h4>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-6 col-lg-3 bordcol">
+                    <div class="d-sm-flex align-items-center text-sm-start text-center">
+                        <img src="images/bookings.png" class="img-fluid" alt="">
+                        <div class="triv_col">
+                            <h4><span>2027</span> Possession Year</h4>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-6 col-lg-3 bordcol">
+                    <div class="d-sm-flex align-items-center text-sm-start text-center">
+                        <img src="images/open-space.png" class="img-fluid" alt="">
+                        <div class="triv_col">
+                            <h4><span>70%</span> Open Space</h4>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-6 col-lg-3 bordcol">
+                    <div class="d-sm-flex align-items-center text-sm-start text-center">
+                        <img src="images/airport.png" class="img-fluid" alt="">
+                        <div class="triv_col">
+                            <h4><span>10 mins</span> Distance from Airport</h4>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--TRIVIA --->
 
 
     <!---GALLERY---->
@@ -322,7 +337,7 @@
                     </div>
                 </div>
                 <div class="text-center mt-4">
-                    <a href="#form" class="btn btn-primary hash">Enquire Now</a>
+                    <a href="#form" class="btn btn-primary hash">Enquire for Site Visit</a>
                 </div>
             </div>
         </div>
@@ -336,7 +351,8 @@
                 <div class="section_title">
                     <h2>Amenities</h2>
                 </div>
-                <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 justify-content-center g-0 mt-sm-5">
+                <div
+                    class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 justify-content-center g-0 mt-sm-5">
                     <div class="col amen_col">
                         <img src="images/playground.png" class="img-fluid" alt="">
                         <h4><span>Children's</span> Playground</h4>
@@ -379,7 +395,7 @@
                     </div>
                 </div>
                 <div class="text-center mt-4">
-                    <a href="#form" class="btn btn-primary">Enquire Now</a>
+                    <a href="#form" class="btn btn-primary hash">Enquire Now</a>
                 </div>
             </div>
         </div>
@@ -717,6 +733,94 @@
         </div>
     </div>
     <!---LOCATION PROXIMITIES---->
+
+
+    <!---LAST FORM + MAP---->
+    <div class="sectiongap">
+        <div class="map_sec ">
+            <div class="container">
+                <div class="row g-4">
+                    <div class="col-lg-8">
+                        <a href="https://www.google.com/maps?sca_esv=b7c0cefaf556a675&output=search&q=dream+gurukul&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeuYzzFkfneXafNx6OMdA4MT_ii3zzsda10XPDTrLfEePzCZNc50dhdivznnq86DF5hM5G2ji1itk1DIOKPMfia5-42gEaFIKUIWks_zBI1hIycHLZsWEGT2G7blksp1rAkow4MfYI9R9vEUfwDzQlZbEB-JGUIqhGAYX6iE5cyZ3WmbfJA&entry=mc&ved=1t:200715&ictx=111"
+                            target="_blank"></a>
+                        <img src="images/map_gurukul.webp" class="img-fluid" alt="">
+
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="overview">
+                            <form action="dream_gurukul.php/form_submit_last.php" id="form" method="post">
+                                <input id="utm_form_name" name="utm_form_name" type="hidden" value="registration">
+                                <input id="utm_source" name="utm_source" type="hidden" value="">
+                                <input id="utm_medium" name="utm_medium" type="hidden" value="">
+                                <input id="utm_content" name="utm_content" type="hidden" value="">
+                                <input id="utm_campaign" name="utm_campaign" type="hidden" value="">
+                                <input id="utm_term" name="utm_term" type="hidden" value="">
+                                <input id="network" name="network" type="hidden" value="">
+                                <input id="campaign_id" name="campaign_id" type="hidden" value="">
+                                <input id="adgroup_id" name="adgroup_id" type="hidden" value="">
+                                <input id="gclid" name="gclid" type="hidden" value="">
+                                <input id="device" name="device" type="hidden" value="">
+                                <input id="creative" name="creative" type="hidden" value="">
+                                <input id="placement" name="placement" type="hidden" value="">
+                                <input id="extension_id" name="extension_id" type="hidden" value="">
+                                <input id="target_id" name="target_id" type="hidden" value="">
+                                <input id="loc_interest_ms" name="loc_interest_ms" type="hidden" value="">
+                                <input id="loc_physical_ms" name="loc_physical_ms" type="hidden" value="">
+                                <input id="device_model" name="device_model" type="hidden" value="">
+                                <input id="keyword" name="keyword" type="hidden" value="">
+                                <input id="match_type" name="match_type" type="hidden" value="">
+                                <input id="adposition" name="adposition" type="hidden" value="">
+                                <input id="source_id" name="source_id" type="hidden" value="">
+                                <input id="target" name="target" type="hidden" value="">
+
+                                <div class="row">
+                                    <h2>Connect With <span>Us Now</span></h2>
+                                    <div class="col-12">
+                                        <input type="text" name="fname" id="fname" oninput="clearValidityMessage(this)"
+                                            class="form-control" placeholder="Enter Full Name" required>
+                                    </div>
+                                    <div class="col-12">
+                                        <input type="number" oninput="clearValidityMessage(this)" pattern="[0-9]{10}"
+                                            name="fcontact" id="fcontact" class="form-control" placeholder="Enter Phone"
+                                            required>
+                                    </div>
+                                    <div class="col-12">
+                                        <input type="email" oninput="validateEmail(this)" name="femail" id="femail"
+                                            class="form-control" placeholder="Enter Email" required>
+                                    </div>
+                                    <div class="col-12 d-none">
+                                        <label>PROJECT</label>
+                                        <input type="text" class="form-control" name="project" id="project"
+                                            value="Dream Gurukul" placeholder="Dream Gurukul" readonly />
+                                    </div>
+                                    <div class="col-12 bordcolmain">
+                                        <div class="form-check text-start">
+                                            <input class="form-check-input" type="checkbox" value=""
+                                                id="flexCheckDefault" checked>
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                                I agree to be contacted by the Jain Group on the above supplied phone
+                                                number and email address.
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 text-center">
+                                        <input type="hidden" name="source_url"
+                                            value="https://thejaingroup.com/dream_gurukul.php" />
+                                        <input type="hidden" name="thankyouurl"
+                                            value="https://thejaingroup.com/dream_gurukul.php/thank-you.php" />
+                                        <button type="submit" class="btn btn-primary" id="loginBtn"
+                                            name="loginBtn">REQUEST CALL BACK</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---LAST FORM + MAP---->
 
     <!---FOOTER--->
     <footer>

@@ -9,9 +9,9 @@ h6 {font-size:1rem;}
 .thanku_bg img{width:220px;}
 .carousel-indicators [data-bs-target]{display:none;}
 .bordcol{margin-bottom: 10px;border-right:0;}
-.bordcol:nth-child(3){display: none;}
-.bordcol:nth-child(4){display: none;}
-.trivia{padding: 5px 0;}
+/* .bordcol:nth-child(3){display: none;}
+.bordcol:nth-child(4){display: none;} */
+.trivia h4{font-size: 15px;}
 .trivia img{margin-right: 0;width: 55px;height: 55px;}
 .fixed-top{position: static!important;}
 .logo-main::before{display: none!important;}
@@ -49,9 +49,10 @@ footer .left_footer h4, footer .right_footer h4{margin-bottom: 15px;}
 .overview .row img{height: 65px;width: 65px;}
 .overview .row h4{font-size: 18px;}
 .scroll_navbar{display: none!important;}
-.trivia{display: none;}
+/* .trivia{display: none;} */
 .floating_icon_bars img{width: 20px;position: relative;top: -2px;}
 .overview p b{display: none;}
+.overview .row p span{border-right: 0;}
 }
 
 @media(width: 360px) and (height: 740px){
