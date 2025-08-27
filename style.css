@@ -43,7 +43,7 @@ li{list-style: none;}
 }
 /*header section*/
 .logo-main img{width:200px;position: relative;}
-.logo-main::before{position: absolute;content: '';background-color: transparent;width: 300px;top: 0;left: 0;height: 100%;}
+.logo-main::before{position: absolute;content: '';background-color: transparent;width: 330px;top: 0;left: 0;height: 100%;}
 .navbar{padding:5px 0; }
 
 /*HEADER*/
