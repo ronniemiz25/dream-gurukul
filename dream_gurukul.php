@@ -155,7 +155,8 @@
                     <div class="col-lg-8">
                         <div class="section_title text-sm-start text-center">
                             <h2>Overview</h2>
-                            <p>Dream Gurukul brings thoughtfully designed <strong>flats in Madhyamgram</strong> that balance convenience,
+                            <p>Dream Gurukul brings thoughtfully designed <strong>flats in Madhyamgram</strong> that
+                                balance convenience,
                                 comfort, and community living. Just 10 minutes from the Airport, the project offers
                                 modern amenities, landscaped open spaces, and activity zones that encourage learning and
                                 recreation for every age group.
@@ -181,7 +182,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 overbg">
-                                
+
                                 <img src="images/lake.png" class="img-fluid" alt="">
                                 <div class="over_col">
                                     <h4>Natural Waterbody</h4>
@@ -725,7 +726,7 @@
                         </div>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </div>
@@ -738,10 +739,7 @@
             <div class="container">
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-8">
-                        <a href="https://www.google.com/maps?sca_esv=b7c0cefaf556a675&output=search&q=dream+gurukul&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeuYzzFkfneXafNx6OMdA4MT_ii3zzsda10XPDTrLfEePzCZNc50dhdivznnq86DF5hM5G2ji1itk1DIOKPMfia5-42gEaFIKUIWks_zBI1hIycHLZsWEGT2G7blksp1rAkow4MfYI9R9vEUfwDzQlZbEB-JGUIqhGAYX6iE5cyZ3WmbfJA&entry=mc&ved=1t:200715&ictx=111"
-                            target="_blank">
-                            <img src="images/location.webp" class="img-fluid" alt="">
-                        </a>
+                        <img src="images/location.webp" class="img-fluid" alt="">
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="overview">
