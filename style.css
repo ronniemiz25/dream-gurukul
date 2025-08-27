@@ -68,7 +68,7 @@ li{list-style: none;}
 .form-control:focus {box-shadow:none;}
 
 /* OVERVIEW */
-.overview form{padding: 30px;background-color: var(--lbrown);border: 1px dashed var(--ochre);}
+.overview form{padding: 25px;background-color: var(--lbrown);border: 1px dashed var(--ochre);}
 .overview form h2{font-size: 26px;text-align: center;}
 .overview form h2 span{color: var(--ochre);}
 .overview .form-control{padding: 10px;margin: 15px 0;font-size: 14px;border: 0;border-bottom: 1px solid #555;border-radius: 0;background-color: transparent;}
