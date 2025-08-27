@@ -34,48 +34,23 @@
             <div class="logo-main">
                 <img src="images/logo-main.webp" alt="" class="img-fluid">
             </div>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link hash" href="#home" aria-current="page">HOME</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link hash" href="#overview">OVERVIEW</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link hash" href="#gallery">GALLERY</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link hash" href="#amenities">AMENITIES</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link hash" href="#floorplan">FLOOR PLAN</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link hash" href="#location">LOCATION</a>
-                    </li>
-
-                </ul>
-            </div>
+            
+            
         </div>
     </nav>
-
     <!---HEADER-->
 
 
     <!----thankyou----->
     <div class="thanku_bg">
         <div class="container text-center">
-            <div class="section_title mb-5">
+            <div class="section_title mb-sm-5">
                 <img class="img-fluid" src="images/thankyou.webp">
                 <p>Your form has been submitted successfully</p>
                 <p>We will be in touch with you shortly.</p>
             </div>
-            <a href="index.php" class="btn btn-primary" role="button">Back to Home <i class="fa-solid fa-house fa-beat"></i></a>
+            <a href="index.php" class="btn btn-primary" role="button">Back to Home</a>
+            <a href="images/brochure-gurukul.pdf" class="btn btn-primary" role="button" download="">Download Brochure</a>
         </div>
     </div>
     <!----thankyou----->
@@ -84,14 +59,14 @@
     <footer>
         <div class="container p-3 p-md-5">
             <div class="row">
-                <div class="col-md-6 col-lg-6">
+                <div class="col-sm-6 col-md-6 col-lg-6">
                     <div class="left_footer">
-                        <h4>Developer Office</h4>
+                        <h4>Head Office</h4>
                         <span>Jain Tower, 44/2A, Hazra Road</span>
                         <span>Near Dover Road Crossing, Kolkata - 700019</span>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-6">
+                <div class="col-sm-6 col-md-6 col-lg-6">
                     <div class="right_footer">
                         <h4>Project Location</h4>
                         <span>Doltala Rd, Ward 16, Madhyamgram</span>
@@ -102,15 +77,11 @@
 
         </div>
         <div class="copyright text-center">
-            <p>Jain Group ©
-                <script>document.write(new Date().getFullYear())</script>. All Rights Reserved.
+            <p>Jain Group © 2025. All Rights Reserved.
             </p>
         </div>
     </footer>
     <!---FOOTER--->
-
-
-
 
 
     <script src="js/jquery-min.js"></script>
@@ -118,6 +89,7 @@
     <script src="js/jquery.fancybox.min.js"></script>
     <script src="js/jquery.inputmask.bundle.min.js"></script>
     <script src="js/custom.js"></script>
+    <script src="js/form.js"></script>
 </body>
 
 </html>

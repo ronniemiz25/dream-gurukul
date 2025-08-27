@@ -6,11 +6,9 @@ h4 {font-size:1.2rem;font-weight: 700;}
 h6 {font-size:1rem;}
 .section_title h2{font-size: 26px;}
 .thanku_bg p{font-size:15px;}
-.thanku_bg img{width:220px;}
+.thanku_bg img{width:170px;}
 .carousel-indicators [data-bs-target]{display:none;}
 .bordcol{margin-bottom: 10px;border-right:0;}
-/* .bordcol:nth-child(3){display: none;}
-.bordcol:nth-child(4){display: none;} */
 .trivia h4{font-size: 15px;}
 .trivia img{margin-right: 0;width: 55px;height: 55px;}
 .fixed-top{position: static!important;}
@@ -49,15 +47,15 @@ footer .left_footer h4, footer .right_footer h4{margin-bottom: 15px;}
 .overview .row img{height: 65px;width: 65px;}
 .overview .row h4{font-size: 18px;}
 .scroll_navbar{display: none!important;}
-/* .trivia{display: none;} */
 .floating_icon_bars img{width: 20px;position: relative;top: -2px;}
 .overview p b{display: none;}
 .overview .row p span{border-right: 0;}
+.thanku_bg {padding: 20px 0;}
+.btn-primary{padding: 10px 15px;font-size: 14px;}
 }
 
 @media(width: 360px) and (height: 740px){
 .floor_plan .nav-link{margin: 0 3px;}
-
 }
   
 /* Media Query for low resolution  Tablets, Ipads */
@@ -78,6 +76,7 @@ footer .left_footer span, footer .right_footer span{font-size: 11px;}
 .location .tab-content{margin-top: 20px;padding: 15px;}
 .sectiongap{padding: 20px 0;}
 .overview form{padding: 20px;margin-bottom: 20px;}
+.thanku_bg{padding: 50px 0;}
 }
   
 
@@ -85,11 +84,15 @@ footer .left_footer span, footer .right_footer span{font-size: 11px;}
   
 /* Media Query for Tablets Ipads portrait mode */
 @media (min-width: 769px) and (max-width: 1024px){
-p {font-size: .7rem;}
-h1, h2 {font-size:1.2rem!important;margin-bottom: 5px;}
-
-
-
+.fixed-top{position: static!important;}
+.bordcol{margin-bottom: 10px;border-right:0;}
+.trivia h4{font-size: 15px;}
+.trivia img{margin-right: 20px;width: 55px;height: 55px;}
+.sectiongap {padding: 30px 0;}
+.section_title h2{font-size: 34px;}
+.section_title {margin-bottom: 25px;}
+.logo-main::before{display: none!important;}
+.scroll_navbar{display: none!important;}
 }
  
 
@@ -98,11 +101,6 @@ h1, h2 {font-size:1.2rem!important;margin-bottom: 5px;}
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) 
 and (orientation : landscape) {  
-.stellarnav > ul > li > a {
-    padding: 16px 15px!important;
-    font-size: 11px!important;
-}
-
 }
 
 
@@ -133,8 +131,6 @@ and (orientation : landscape) {
 } 
 /* Media Query for Large screens */
 @media (min-width: 1200px) {
-.container, .container-sm, .container-md, .container-lg, .container-xl{
-max-width: 1220px;}
 
 	
 }

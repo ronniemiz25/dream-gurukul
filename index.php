@@ -28,7 +28,6 @@
     <!---FLOATING ICONS-->
 
     <!---HEADER-->
-
     <nav class="navbar navbar-expand-lg navbar-light menumain fixed-top">
         <div class="container">
             <div class="logo-main">
@@ -63,7 +62,6 @@
             </div>
         </div>
     </nav>
-
     <!---HEADER-->
 
     <!---BANNER--->
@@ -87,7 +85,7 @@
         <div class="overview">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-md-6 col-lg-4">
                         <form action="dream_gurukul.php/form_submit.php" id="form" method="post">
                             <input id="utm_form_name" name="utm_form_name" type="hidden" value="registration">
                             <input id="utm_source" name="utm_source" type="hidden" value="">
@@ -264,7 +262,7 @@
                     <h2>Gallery</h2>
                 </div>
                 <div class="row g-2 g-sm-3">
-                    <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-4">
                         <a href="images/gallery-1.webp" data-fancybox="img">
                             <div class="gallery_col">
                                 <img src="images/gallery-1.webp" class="img-fluid" alt="">
@@ -353,7 +351,7 @@
                     <h2>Amenities</h2>
                 </div>
                 <div
-                    class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 justify-content-center g-0 mt-sm-5">
+                    class="row row-cols-2 row-cols-sm-3 row-cols-md-3 row-cols-lg-5 justify-content-center g-0 mt-sm-5">
                     <div class="col amen_col">
                         <img src="images/playground.png" class="img-fluid" alt="">
                         <h4><span>Children's</span> Playground</h4>
@@ -432,7 +430,7 @@
                         aria-labelledby="tab-master-plan">
                         <!-- ..1. -->
                         <div class="row justify-content-center">
-                            <div class="col-md-6">
+                            <div class="col-md-8 col-lg-6">
                                 <div class="floor_col">
                                     <img src="images/masterplan.webp" class="img-fluid" alt="">
                                     <div class="overlay">
@@ -471,8 +469,8 @@
                     </div>
                     <div class="tab-pane fade" id="content-tower-b" role="tabpanel" aria-labelledby="tab-tower-b">
                         <!-- ...3 -->
-                        <div class="row">
-                            <div class="col-lg-4">
+                        <div class="row g-3 justify-content-center">
+                            <div class="col-md-6 col-lg-4">
                                 <div class="floor_col">
                                     <img src="images/Tower-B.webp" class="img-fluid" alt="">
                                     <div class="ribbon">1st Floor Plan</div>
@@ -481,7 +479,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-md-6 col-lg-4">
                                 <div class="floor_col">
                                     <img src="images/Tower-B.webp" class="img-fluid" alt="">
                                     <div class="ribbon">2nd,4th,6th Floor Plan</div>
@@ -490,7 +488,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-md-6 col-lg-4">
                                 <div class="floor_col">
                                     <img src="images/Tower-B.webp" class="img-fluid" alt="">
                                     <div class="ribbon">3rd,5th,7th Floor Plan</div>
@@ -515,7 +513,7 @@
                     <h2>Location Proximities</h2>
                 </div>
                 <div class="row mt-md-5">
-                    <div class="col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="nav flex-row flex-md-column nav-pills" id="v-pills-tab" role="tablist"
                             aria-orientation="vertical">
                             <button class="nav-link active" id="v-pills-connectivity-tab" data-bs-toggle="pill"
@@ -540,7 +538,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-9">
+                    <div class="col-md-8 col-lg-9">
                         <div class="tab-content" id="v-pills-tabContent">
                             <div class="tab-pane fade show active" id="v-pills-connectivity" role="tabpanel"
                                 aria-labelledby="v-pills-connectivity-tab">
@@ -739,13 +737,13 @@
         <div class="map_sec ">
             <div class="container">
                 <div class="row g-4">
-                    <div class="col-lg-8">
+                    <div class="col-md-6 col-lg-8">
                         <a href="https://www.google.com/maps?sca_esv=b7c0cefaf556a675&output=search&q=dream+gurukul&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeuYzzFkfneXafNx6OMdA4MT_ii3zzsda10XPDTrLfEePzCZNc50dhdivznnq86DF5hM5G2ji1itk1DIOKPMfia5-42gEaFIKUIWks_zBI1hIycHLZsWEGT2G7blksp1rAkow4MfYI9R9vEUfwDzQlZbEB-JGUIqhGAYX6iE5cyZ3WmbfJA&entry=mc&ved=1t:200715&ictx=111"
                             target="_blank">
-                            <img src="images/map_gurukul.webp" class="img-fluid" alt="">
+                            <img src="images/location.webp" class="img-fluid" alt="">
                         </a>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-md-6 col-lg-4">
                         <div class="overview">
                             <form action="dream_gurukul.php/form_submit_last.php" id="form" method="post">
                                 <input id="utm_form_name" name="utm_form_name" type="hidden" value="registration">

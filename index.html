@@ -742,7 +742,7 @@
                     <div class="col-lg-8">
                         <a href="https://www.google.com/maps?sca_esv=b7c0cefaf556a675&output=search&q=dream+gurukul&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeuYzzFkfneXafNx6OMdA4MT_ii3zzsda10XPDTrLfEePzCZNc50dhdivznnq86DF5hM5G2ji1itk1DIOKPMfia5-42gEaFIKUIWks_zBI1hIycHLZsWEGT2G7blksp1rAkow4MfYI9R9vEUfwDzQlZbEB-JGUIqhGAYX6iE5cyZ3WmbfJA&entry=mc&ved=1t:200715&ictx=111"
                             target="_blank">
-                            <img src="images/map_gurukul.webp" class="img-fluid" alt="">
+                            <img src="images/location.webp" class="img-fluid" alt="">
                         </a>
                     </div>
                     <div class="col-lg-4">
