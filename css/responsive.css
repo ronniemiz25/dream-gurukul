@@ -54,6 +54,8 @@ footer .left_footer h4, footer .right_footer h4{margin-bottom: 15px;}
 .thanku_bg {padding: 20px 0;}
 .btn-primary{padding: 10px 15px;font-size: 14px;}
 .map_sec .overview form{margin-bottom: 15px!important;}
+.overview .form-control{margin: 10px 0;}
+button[type="submit"]{margin-top: 10px;}
 }
 
 @media(width: 360px) and (height: 740px){
@@ -79,10 +81,7 @@ footer .left_footer span, footer .right_footer span{font-size: 11px;}
 .sectiongap{padding: 20px 0;}
 .overview form{padding: 20px;margin-bottom: 20px;}
 .thanku_bg{padding: 50px 0;}
-}
-  
-
-  
+}  
   
 /* Media Query for Tablets Ipads portrait mode */
 @media (min-width: 769px) and (max-width: 1024px){
@@ -96,53 +95,4 @@ footer .left_footer span, footer .right_footer span{font-size: 11px;}
 .logo-main::before{display: none!important;}
 .scroll_navbar{display: none!important;}
 }
- 
-
-
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : landscape) {  
-}
-
-
-@media only screen 
-and (min-device-width : 820px) 
-and (max-device-width : 1180px) 
-and (orientation : landscape) {  
-.stellarnav > ul > li > a {padding: 16px 15px!important;font-size: 11px!important;}
-.logo-main img { height: 65px;}
-
-}
-
-
-
- 
-/* Media Query for Laptops and Desktops */
-@media (min-width: 1025px) and (max-width: 1199px){
-
-
-}
-  
-   
-/* Media Query for Laptops and Desktops */
-@media (min-width: 1025px) and (max-width: 1366px){
-
-
-
-} 
-/* Media Query for Large screens */
-@media (min-width: 1200px) {
-
-	
-}
-
-@media (min-width: 1079px) and (max-width: 1920px){
-
-}
-
-
-
-
-
 
