@@ -56,6 +56,7 @@ footer .left_footer h4, footer .right_footer h4{margin-bottom: 15px;}
 .map_sec .overview form{margin-bottom: 15px!important;}
 .overview .form-control{margin: 10px 0;}
 button[type="submit"]{margin-top: 10px;}
+.ribbon{padding: 10px 15px;}
 }
 
 @media(width: 360px) and (height: 740px){
