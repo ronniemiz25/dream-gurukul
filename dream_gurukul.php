@@ -192,7 +192,7 @@
                             <div class="col-md-12 overbg">
                                 <img src="images/loan.png" class="img-fluid" alt="">
                                 <div class="over_col">
-                                    <h4>Loan Approved by Major Banks</h4>
+                                    <h4>Home Loan by Major Banks</h4>
                                     <p>Empowering your vision—bank loans to bring Dream Gurukul to life.</p>
                                 </div>
                             </div>
