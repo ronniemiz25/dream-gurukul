@@ -4,12 +4,13 @@ h1, h2 {font-size:1.2rem;}
 h3 {font-size: 1rem;}
 h4 {font-size:1.2rem;font-weight: 700;}
 h6 {font-size:1rem;}
-.section_title h2{font-size: 26px;}
+.section_title h2{font-size: 30px;}
 .thanku_bg p{font-size:15px;}
 .thanku_bg img{width:170px;}
 .carousel-indicators [data-bs-target]{display:none;}
 .bordcol{margin-bottom: 10px;border-right:0;}
 .trivia h4{font-size: 15px;}
+.trivia h4 span{margin: 5px 0;font-size: 20px;}
 .trivia img{margin-right: 0;width: 55px;height: 55px;}
 .fixed-top{position: static!important;}
 .logo-main::before{display: none!important;}
@@ -52,6 +53,7 @@ footer .left_footer h4, footer .right_footer h4{margin-bottom: 15px;}
 .overview .row p span{border-right: 0;}
 .thanku_bg {padding: 20px 0;}
 .btn-primary{padding: 10px 15px;font-size: 14px;}
+.map_sec .overview form{margin-bottom: 15px!important;}
 }
 
 @media(width: 360px) and (height: 740px){
